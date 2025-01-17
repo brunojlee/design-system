@@ -1,0 +1,10 @@
+{
+    "extends": "./base.json",
+    "compilerOptions": {
+        "jsx": "react-jsx",
+        "lib": ["dom", "es2017"],
+        "module": "ESNext",
+        "target": "es6"
+
+    }
+}
